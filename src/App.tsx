@@ -83,6 +83,7 @@ export const App = () => {
         </button>
       </form>
       <div className="ring-offset-blue-950">p1</div>
+      <div className="ring-offset-blue-950">p2</div>
     </div>
   );
 };
